@@ -566,7 +566,7 @@ ul {
 .main-menu__wrapper-inner {
   display: flex;
   align-items: left;
-  justify-content: flex-start; /* Optional: align all left */
+  justify-content: center; /* Optional: align all left */
   gap: 40px; /* add spacing between left and right */
   padding-left: 40px;
 }
