@@ -309,7 +309,7 @@ ul {
   position: relative;
   display: inline-block;
   font-size: 18px;
-  line-height: 18px;
+  line-height: 40px;
   color: var(--agrion-base);
   font-weight: 500;
   z-index: 1;
